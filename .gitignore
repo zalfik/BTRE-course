@@ -9,3 +9,5 @@ db.sqlite3-journal
 venv
 /static
 .env
+/btre_resources
+Resource+Links.txt
